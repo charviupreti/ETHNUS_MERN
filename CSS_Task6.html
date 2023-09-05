@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./style_css_task6.css" rel="stylesheet" type="text/css" />
+    <title>CSS Task 6</title>
+  </head>
+  <body>
+    <form action="./index.html">
+      <div class="image">
+        <a
+          target="_blank"
+          href="https://www.w3schools.com/howto/img_avatar2.png"
+        >
+          <img
+            src="https://www.w3schools.com/howto/img_avatar2.png"
+            alt="avatar"
+            class="avatar"
+          />
+        </a>
+      </div>
+      <div class="container">
+        <label for="un"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="un" required />
+
+        <label for="pw"><b>Password</b></label>
+        <input
+          type="password"
+          placeholder="Enter Password"
+          name="pw"
+          required
+        />
+        <button type="submit">Login</button>
+        <label>
+          <input type="checkbox" checked="checked" name="remember" /> Remember
+          me
+        </label>
+      </div>
+      <div class="container2">
+        <button type="button" class="cancel">Cancel</button>
+        <span class="pw">Forgot <a href="#">password?</a></span>
+      </div>
+    </form>
+  </body>
+</html>

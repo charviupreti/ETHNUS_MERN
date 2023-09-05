@@ -1,0 +1,53 @@
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+
+  box-sizing: border-box;
+}
+
+a {
+  color: black;
+}
+button {
+  background-color: rgb(31, 176, 31);
+  color: white;
+  border: none;
+  padding: 15px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.cancel {
+  width: auto;
+  padding: 10px 18px;
+  background-color: rgb(205, 43, 43);
+  border-radius: 15%;
+}
+
+.image {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.pw {
+  float: right;
+  padding-top: 16px;
+  padding-right: 20px;
+}
+
+.container2 {
+  background-color: rgb(187, 184, 184);
+  width: 99%;
+}

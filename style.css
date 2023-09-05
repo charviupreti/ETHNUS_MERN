@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  width: 45%;
+}
+
+table {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.info {
+  border: none;
+  border-collapse: collapse;
+  text-align: right;
+}

@@ -1,0 +1,86 @@
+.table1 {
+  background-color: rgb(105, 178, 178);
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 100%;
+}
+.table1 th,
+.table1 td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+td {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+#rcorners1 {
+  border-radius: 7%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners2 {
+  border-radius: 10%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners3 {
+  border-radius: 23%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners4 {
+  border-radius: 12%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners5 {
+  border-radius: 2%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners6 {
+  border-radius: 25%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners7 {
+  border-radius: 100%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+#rcorners8 {
+  border-radius: 5%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}
+
+#rcorners9 {
+  border-radius: 5% 25% 5% 25%;
+  border: 5px solid #8ac007;
+  padding: 20px;
+  width: 150px;
+  height: 100px;
+}

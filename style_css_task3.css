@@ -1,0 +1,23 @@
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+
+table {
+  border-collapse: collapse;
+  width: 75%;
+  margin: 0 auto;
+}
+
+th {
+  background-color: rgb(4, 169, 109);
+  color: white;
+  text-align: left;
+  font-weight: normal;
+  padding: 2%;
+  padding-right: 5%;
+}
+
+td {
+  padding: 2%;
+  padding-right: 5%;
+}
